@@ -80,5 +80,10 @@ baseurl: "/resume.io"
 
 本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。
 
-## 开源协议
-[MIT](https://github.com/ikym/resume/blob/master/LICENSE)
+## Donate
+
+[![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/26_Yellow_PayPal_Pill_Button.png)](paypal.me/wangxiaopeng0)  
+
+## License
+
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
